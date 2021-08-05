@@ -1,4 +1,4 @@
-# Project #3 - Route Planner
+# Project #4 - Route Planner
 ## Udacity Nanodegree - Data Structures and Algorithms
 
 This repo contains projects that I am working on as part of this course.
